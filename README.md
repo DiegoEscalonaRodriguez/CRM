@@ -1,9 +1,9 @@
-# React Boilerplate para IWEB
+# React Boilerplate 
 
 ## Instrucciones
 
 1. Instala [node.js](https://nodejs.org/es/download/) y [git](https://git-scm.com/downloads)
-2. Abre un terminal nuevo en tu ordenador y clona ESTE proyecto (`git clone https://github.com/sonsoleslp/react-iweb-boilerplate.git`)
+2. Abre un terminal nuevo en tu ordenador y clona ESTE proyecto 
 3. Se ha creado un nuevo directorio (`react-iweb-boilerplate`): accede a él(`cd react-iweb-boilerplate`)
 4. En github.com, crea con tu usario un nuevo repositorio para albergar tu proyecto. Ejemplo https://github.com/alumno/react-iweb
 5. Vuelve al terminal y cambia la remote URL por la del repo que has creado. Ejemplo `git remote set-url origin http://github.com/alumno/react-iweb.git`
@@ -25,8 +25,8 @@
 
 ## Desarrollo
 
-El código de los componentes de React desarrollado debe estar en la carpeta `/app/components` (puedes crear subcarpetas)
-Recuerda que la estructura básica de un componente de React es la siguiente:
+El código de los componentes de React desarrollado debe estar en la carpeta `/app/components` 
+La estructura básica de un componente de React es la siguiente:
 
 ```
 import React from 'react';
